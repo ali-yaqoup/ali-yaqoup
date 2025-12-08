@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ali Yaqoub  
-### Software Engineering Student | Full-Stack Developer | MERN & Angular Lover
+### Software Engineering Student | Full-Stack Developer | UI/UX Designer
 
 ---
 
