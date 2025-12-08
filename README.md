@@ -1,108 +1,93 @@
-# 👋 Hi, I'm Ali Yaqoub  
-### Software Engineering Student | Full-Stack Developer | UI/UX Designer
+<h1 align="center">👋 Hi, I'm Ali Yaqoub</h1>
+
+<p align="center">
+  <b>Software Engineering Student | MERN Stack Developer | UI/UX Designer</b>
+</p>
 
 ---
 
-## 🧑‍💻 About Me  
-I’m a third-year Software Engineering student who enjoys building modern web applications and solving real-world problems through clean architecture and creative thinking.  
-I’m passionate about full-stack development, UI/UX, and creating digital solutions that are both useful and enjoyable.
+## 🚀 About Me
+
+- 🌱 Currently learning **GraphQL**, **TypeScript**, and advanced **System Design**  
+- 👯 Looking to collaborate on **open-source projects**  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, UI/UX, and Web Development**  
+- 🤝 I’m looking for help with advancing my **system design** skills  
+- 📫 Reach me at: **your.email@example.com**  
+- ⚡ Fun fact: I break my code just to fix it better 😄  
 
 ---
 
-## 🌱 What I'm Currently Learning  
-- **GraphQL**  
-- **TypeScript**  
-- Advanced backend & system design  
-
----
-
-## 👯 I’m Looking to Collaborate On  
-- Open-source projects  
-- JavaScript, React, Angular, Node.js tooling  
-- Any project that challenges me as a full-stack developer
-
----
-
-## 🤝 I’m Looking for Help With  
-- System design  
-- Scalable backend architecture  
-- Clean code & design patterns  
-
----
-
-## 💬 Ask Me About  
-- React, Angular, JavaScript, TypeScript  
-- MERN Stack Development  
-- Node.js & API design  
-- UI/UX thinking for developers  
-
----
-
-# 📌 Featured Projects
-
-### 🔶 **Technician Hiring Platform (THP)**  
-Full-Stack Web Application connecting job owners with technicians through tasks, offers, messaging, and reviews.  
-**Frontend:** Angular • **Backend:** Laravel  
-🔗 Frontend Repo: https://github.com/ali-yaqoup/Project-THP  
-🔗 Backend Repo: https://github.com/ali-yaqoup/Backend-THP  
-
----
-
-### ⭐ **Quality Assurance Project**  
-A structured QA project including test planning, documentation, and software test cases.  
-🔗 Repo: https://github.com/ali-yaqoup/Quality-Assurance  
-
----
-
-### 🌐 **Advanced Programming Project**  
-Java-based backend project demonstrating advanced OOP, data structures, and application logic.  
-🔗 Repo: https://github.com/ali-yaqoup/Advanced-Programming-Project  
-
----
-
-### 📱 **MedTrack UI/UX**  
-Mobile health app UI/UX prototype designed to support medication tracking and patient–doctor communication.  
-🔗 Repo: https://github.com/ali-yaqoup/MedTrack-UIUX  
-
----
-
-# 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 ### **Frontend**
-- React • Angular • Bootstrap • HTML • CSS • JavaFX • Figma / Canva
+- React.js · Next.js  
+- TypeScript · JavaScript  
+- Redux Toolkit · RTK Query  
+- TailwindCSS · Shadcn/UI  
+- HTML · CSS  
+- UI/UX Design (Figma)
 
 ### **Backend**
-- Node.js • Express  
-- Laravel  
-- Java  
-- SQL / MySQL
-
-### **Programming Languages**
-- JavaScript • TypeScript • C++ • Python • Java • SQL
+- Node.js · Express.js  
+- Django REST Framework  
+- PostgreSQL · MongoDB  
+- REST APIs
 
 ### **Tools**
-- Git & GitHub  
-- Firebase  
+- Git · GitHub  
 - Postman  
-- Agile/Scrum workflows  
+- VS Code  
+- QGIS (Plugin Development)  
+- Linux · Bash  
+- npm · yarn
 
 ---
 
-## 📊 GitHub Stats  
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-yaqoup&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yaqoup&layout=compact&theme=tokyonight)
-
----
-
-## 📫 How to Reach Me  
-📧 Email: **s12219814@stu.najah.edu**  
-🌍 Location: Salfeet — Palestine  
-🔗 GitHub: https://github.com/ali-yaqoup  
-🔗 *Add your LinkedIn link here*  
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ali-yaqoup&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yaqoup&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-I break things on purpose — because that’s usually the fastest way to understand how they *really* work 😄
+## 🧩 Featured Projects
 
+### 🔹 **Project THP (MERN + System Design)**
+🔗 https://github.com/ali-yaqoup/Project-THP  
+A practical full-stack project implementing authentication, dashboards, and reusable UI components.
+
+### 🔹 **Quality Assurance Project**
+🔗 https://github.com/ali-yaqoup/Quality-Assurance  
+Focused on testing strategies, automation, and improving software robustness.
+
+### 🔹 **Advanced Programming Project**
+🔗 https://github.com/ali-yaqoup/Advanced-Programming-Project  
+Advanced concepts in OOP, data structures, and performance optimizations.
+
+### 🔹 **Backend-THP**
+🔗 https://github.com/ali-yaqoup/Backend-THP  
+RESTful backend built following best MVC and service-layer practices.
+
+### 🔹 **MedTrack UI/UX**
+🔗 https://github.com/ali-yaqoup/MedTrack-UIUX  
+A modern medical dashboard interface designed fully in Figma.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/ali-yaqoup" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Always building. Always learning. Always improving. ✨</p>
