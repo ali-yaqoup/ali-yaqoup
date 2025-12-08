@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ali-yaqoup&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yaqoup&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🧩 Featured Projects
 
