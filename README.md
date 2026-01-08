@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, UI/UX, and Web Development**  
 - 🤝 I’m looking for help with advancing my **system design** skills  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **alideraralialiali@gmail.com**  
 - ⚡ Fun fact: I break my code just to fix it better 😄  
 
 ---
