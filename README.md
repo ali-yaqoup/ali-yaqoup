@@ -67,10 +67,12 @@ Advanced concepts in OOP, data structures, and performance optimizations.
 
 ### 🔹 **Lumixy**
 🔗 https://github.com/ali-yaqoup/Lumixy.git 
+
 full-stack platform for managing service providers and administrative operations.
 
 ### 🔹 **Lumixy-backend**
 🔗 https://github.com/ali-yaqoup/Lumixy-backend.git 
+
 A RESTful API backend for a service provider marketplace. Built with Laravel, it connects customers with local service providers through a structured registration, onboarding, and admin approval system..
 
 
