@@ -48,15 +48,15 @@
 ## 🧩 Featured Projects
 
 ### 🔹 **Project THP (MERN + System Design)**
-🔗 https://github.com/ali-yaqoup/Project-THP  
+🔗 https://github.com/ali-yaqoup/Project-THP            
 A practical full-stack project implementing authentication, dashboards, and reusable UI components.
 
 ### 🔹 **Backend-THP**
-🔗 https://github.com/ali-yaqoup/Backend-THP  
+🔗 https://github.com/ali-yaqoup/Backend-THP                  
 RESTful backend built following best MVC and service-layer practices.
 
 
-### 🔹 **Quality Assurance Project**
+### 🔹 **Quality Assurance Project**                    
 🔗 https://github.com/ali-yaqoup/Quality-Assurance  
 Focused on testing strategies, automation, and improving software robustness.
 
