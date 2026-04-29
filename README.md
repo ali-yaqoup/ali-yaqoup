@@ -50,6 +50,11 @@
 🔗 https://github.com/ali-yaqoup/Project-THP  
 A practical full-stack project implementing authentication, dashboards, and reusable UI components.
 
+### 🔹 **Backend-THP**
+🔗 https://github.com/ali-yaqoup/Backend-THP  
+RESTful backend built following best MVC and service-layer practices.
+
+
 ### 🔹 **Quality Assurance Project**
 🔗 https://github.com/ali-yaqoup/Quality-Assurance  
 Focused on testing strategies, automation, and improving software robustness.
@@ -58,9 +63,15 @@ Focused on testing strategies, automation, and improving software robustness.
 🔗 https://github.com/ali-yaqoup/Advanced-Programming-Project  
 Advanced concepts in OOP, data structures, and performance optimizations.
 
-### 🔹 **Backend-THP**
-🔗 https://github.com/ali-yaqoup/Backend-THP  
-RESTful backend built following best MVC and service-layer practices.
+
+### 🔹 **Lumixy**
+🔗 https://github.com/ali-yaqoup/Lumixy.git 
+full-stack platform for managing service providers and administrative operations.
+
+### 🔹 **Lumixy-backend**
+🔗 https://github.com/ali-yaqoup/Lumixy-backend.git 
+A RESTful API backend for a service provider marketplace. Built with Laravel, it connects customers with local service providers through a structured registration, onboarding, and admin approval system..
+
 
 ### 🔹 **MedTrack UI/UX**
 🔗 https://github.com/ali-yaqoup/MedTrack-UIUX  
