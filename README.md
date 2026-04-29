@@ -10,7 +10,6 @@
 
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **React, Node.js, React native, MongoDB, UI/UX, and Web Development**  
-- 🤝 I’m looking for help with advancing my **system design** skills 
 - 🌐 Portfolio: https://ali-yaqoup.github.io/Ali-Portfolio/
 - 📫 Reach me at: **alideraralialiali@gmail.com**  
 - ⚡ Fun fact: I break my code just to fix it better 😄  
