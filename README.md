@@ -40,6 +40,8 @@
 - QGIS (Plugin Development)  
 - Linux · Bash  
 - npm · yarn
+- Codex .cursor
+  
 
 ---
 
