@@ -65,7 +65,7 @@ Focused on testing strategies, automation, and improving software robustness.
 Advanced concepts in OOP, data structures, and performance optimizations.
 
 
-### 🔹 **Lumixy**
+### 🔹 **Lumixy** (Mobile Project)
 🔗 https://github.com/ali-yaqoup/Lumixy.git 
 
 full-stack platform for managing service providers and administrative operations.
