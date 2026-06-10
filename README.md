@@ -11,7 +11,7 @@
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **React, Node.js, React native, MongoDB, UI/UX, and Web Development**  
 - 🌐 Portfolio: https://ali-yaqoup.github.io/Ali-Portfolio/
-- 📫 Reach me at: **alideraralialiali@gmail.com**  
+- 📫 Reach me at: **ali.yaqoub.software@gmail.com**  
 - ⚡ Fun fact: I break my code just to fix it better 😄  
 
 ---
