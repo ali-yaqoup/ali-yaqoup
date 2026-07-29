@@ -47,7 +47,8 @@ production front-end work and the API design that backs it.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -68,8 +69,8 @@ production front-end work and the API design that backs it.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -80,12 +81,13 @@ production front-end work and the API design that backs it.
 | :--- | :--- | :--- |
 | **[Portfolio](https://github.com/ali-yaqoup/Ali-Portfolio)** — [live ↗](https://ali-yaqoup.github.io/Ali-Portfolio/) | 3D animated personal portfolio with a particle background, scroll-reveal animations, and a glassmorphism UI | React 18 · Vite · Three.js · GSAP · Tailwind |
 | **[THP — Technical Hiring Platform](https://github.com/ali-yaqoup/Project-THP)** | Talent-management and job-posting platform: bidding system, auth, analytics dashboards, PDF/Excel export | Angular 19 · Bootstrap 5 · Chart.js |
-| **[THP API](https://github.com/ali-yaqoup/Backend-THP)** | REST API powering the hiring platform, structured around MVC with a service layer | PHP · MySQL |
-| **[Lumixy](https://github.com/ali-yaqoup/Lumixy)** | Mobile app for a service-provider marketplace — browsing, booking, and provider management | React Native |
-| **[Lumixy API](https://github.com/ali-yaqoup/Lumixy-backend)** | Marketplace backend: provider registration, onboarding flow, and admin approval pipeline | Laravel · MySQL |
-| **[MedTrack](https://github.com/ali-yaqoup/MedTrack-UIUX)** | Medication-reminder app designed to improve treatment adherence — full UI/UX system in Figma | Figma · Design System |
-| **[QA & Test Automation](https://github.com/ali-yaqoup/Quality-Assurance)** | Test strategy, automated suites, and robustness work on a Java codebase | Java · JUnit · Selenium |
-| **[Data Structures](https://github.com/ali-yaqoup/Data-Structures-Project)** | From-scratch implementations of stacks, queues, linked lists, and trees | C++ |
+| **[THP API](https://github.com/ali-yaqoup/Backend-THP)** | Backend for the hiring platform — two-step OTP login, email verification, job posts with soft-delete, bids, and admin moderation across a three-role model | Laravel 12 · PHP 8.2 · Sanctum |
+| **[Lumixy](https://github.com/ali-yaqoup/Lumixy)** | Mobile marketplace app: public provider directory, category search, multi-step provider onboarding, plus provider and admin dashboards | Expo · React Native · TypeScript |
+| **[Lumixy API](https://github.com/ali-yaqoup/Lumixy-backend)** | 31-endpoint marketplace backend: completeness-gated onboarding, gallery management, and an admin approve/reject/suspend pipeline | Laravel 12 · Sanctum · MySQL |
+| **[Account Dashboard](https://github.com/ali-yaqoup/Web-dev-1)** | Single-page account management app on Firebase Auth — profile editing, password change, contact management, and account deletion flow | React 18 · Vite · Firebase · MUI |
+| **[Time4Meds](https://github.com/ali-yaqoup/MedTrack-UIUX)** — [case study ↗](https://www.behance.net/gallery/211753891/Time4Meds-(Ui-Ux)) | Medication-reminder app designed to improve treatment adherence — full UI/UX system and design language | Figma |
+| **[QA & Test Automation](https://github.com/ali-yaqoup/Quality-Assurance)** | JUnit 5 test suites over five domain classes — parameterized tests, grouped assertions, exception testing, and lifecycle hooks | Java · JUnit 5 |
+| **[Data Structures](https://github.com/ali-yaqoup/Data-Structures-Project)** | Templated `Deque<T>` and `LinkedList<T>`, polynomial arithmetic with operator overloading, and a postfix expression evaluator | C++ |
 
 ---
 
