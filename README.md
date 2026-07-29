@@ -80,14 +80,14 @@ production front-end work and the API design that backs it.
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **[Portfolio](https://github.com/ali-yaqoup/Ali-Portfolio)** — [live ↗](https://ali-yaqoup.github.io/Ali-Portfolio/) | 3D animated personal portfolio with a particle background, scroll-reveal animations, and a glassmorphism UI | React 18 · Vite · Three.js · GSAP · Tailwind |
-| **[THP — Technical Hiring Platform](https://github.com/ali-yaqoup/Project-THP)** | Talent-management and job-posting platform: bidding system, auth, analytics dashboards, PDF/Excel export | Angular 19 · Bootstrap 5 · Chart.js |
-| **[THP API](https://github.com/ali-yaqoup/Backend-THP)** | Backend for the hiring platform — two-step OTP login, email verification, job posts with soft-delete, bids, and admin moderation across a three-role model | Laravel 12 · PHP 8.2 · Sanctum |
-| **[Lumixy](https://github.com/ali-yaqoup/Lumixy)** | Mobile marketplace app: public provider directory, category search, multi-step provider onboarding, plus provider and admin dashboards | Expo · React Native · TypeScript |
-| **[Lumixy API](https://github.com/ali-yaqoup/Lumixy-backend)** | 31-endpoint marketplace backend: completeness-gated onboarding, gallery management, and an admin approve/reject/suspend pipeline | Laravel 12 · Sanctum · MySQL |
-| **[Account Dashboard](https://github.com/ali-yaqoup/Web-dev-1)** | Single-page account management app on Firebase Auth — profile editing, password change, contact management, and account deletion flow | React 18 · Vite · Firebase · MUI |
-| **[Time4Meds](https://github.com/ali-yaqoup/MedTrack-UIUX)** — [case study ↗](https://www.behance.net/gallery/211753891/Time4Meds-(Ui-Ux)) | Medication-reminder app designed to improve treatment adherence — full UI/UX system and design language | Figma |
-| **[QA & Test Automation](https://github.com/ali-yaqoup/Quality-Assurance)** | JUnit 5 test suites over five domain classes — parameterized tests, grouped assertions, exception testing, and lifecycle hooks | Java · JUnit 5 |
-| **[Data Structures](https://github.com/ali-yaqoup/Data-Structures-Project)** | Templated `Deque<T>` and `LinkedList<T>`, polynomial arithmetic with operator overloading, and a postfix expression evaluator | C++ |
+| **[THP — Technical Hiring Platform](https://github.com/ali-yaqoup/thp-hiring-platform-web)** | Talent-management and job-posting platform: bidding system, auth, analytics dashboards, PDF/Excel export | Angular 19 · Bootstrap 5 · Chart.js |
+| **[THP API](https://github.com/ali-yaqoup/thp-hiring-platform-api)** | Backend for the hiring platform — two-step OTP login, email verification, job posts with soft-delete, bids, and admin moderation across a three-role model | Laravel 12 · PHP 8.2 · Sanctum |
+| **[Lumixy](https://github.com/ali-yaqoup/lumixy-mobile)** | Mobile marketplace app: public provider directory, category search, multi-step provider onboarding, plus provider and admin dashboards | Expo · React Native · TypeScript |
+| **[Lumixy API](https://github.com/ali-yaqoup/lumixy-api)** | 31-endpoint marketplace backend: completeness-gated onboarding, gallery management, and an admin approve/reject/suspend pipeline | Laravel 12 · Sanctum · MySQL |
+| **[Account Dashboard](https://github.com/ali-yaqoup/react-firebase-dashboard)** | Single-page account management app on Firebase Auth — profile editing, password change, contact management, and account deletion flow | React 18 · Vite · Firebase · MUI |
+| **[Time4Meds](https://github.com/ali-yaqoup/time4meds-ui-design)** — [case study ↗](https://www.behance.net/gallery/211753891/Time4Meds-(Ui-Ux)) | Medication-reminder app designed to improve treatment adherence — full UI/UX system and design language | Figma |
+| **[QA & Test Automation](https://github.com/ali-yaqoup/qa-junit5-testing)** | JUnit 5 test suites over five domain classes — parameterized tests, grouped assertions, exception testing, and lifecycle hooks | Java · JUnit 5 |
+| **[Data Structures](https://github.com/ali-yaqoup/data-structures-cpp)** | Templated `Deque<T>` and `LinkedList<T>`, polynomial arithmetic with operator overloading, and a postfix expression evaluator | C++ |
 
 ---
 
