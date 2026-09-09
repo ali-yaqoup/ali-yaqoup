@@ -1,13 +1,16 @@
-<h1 align="center">Ali Yaqoub</h1>
+<div align="center">
+  <img src="assets/banner.svg" alt="Ali Yaqoub — Full-Stack Developer" width="100%" />
+</div>
 
-<p align="center">
-  <b>Full-Stack Developer &nbsp;·&nbsp; Software Engineering Student</b>
-</p>
+<br/>
 
-<p align="center">
-  I build fast, accessible web applications — React and Angular on the front end,<br/>
-  Node.js and Laravel on the back end, with a designer's eye for the details.
-</p>
+<div align="center">
+  <img src="assets/live.svg" alt="Available for work" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2800&pause=800&color=A5B4FC&center=true&vCenter=true&width=760&height=40&lines=I+build+fast%2C+accessible+web+applications;React+%26+Angular+on+the+front+end;Node.js+%26+Laravel+on+the+back+end;Designed+in+Figma%2C+shipped+in+TypeScript" alt="Roles typed out in sequence" />
+</div>
 
 <p align="center">
   <a href="https://ali-yaqoup.github.io/Ali-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -16,64 +19,56 @@
   <a href="https://linktr.ee/ali_yaqoup_dev"><img src="https://img.shields.io/badge/All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## About
 
-Software Engineering student at **An-Najah National University** (Palestine), currently focused on
-production front-end work and the API design that backs it.
+Software Engineering student at **An-Najah National University** (Palestine). I take products from Figma to production — typed interfaces, accessible UI, and the APIs that back them.
 
-- 🧩 I care about **component architecture** — reusable, typed, and easy for the next person to extend
-- 🎨 I design in **Figma** before I write code, so the handoff from design to implementation is mine end-to-end
-- 🧪 Comfortable across the stack: I've shipped **Angular** and **React** front ends against **Laravel** and **Node.js** APIs
-- 📚 Currently deepening **system design** and **automated testing**
-- 💬 Happy to talk about React, TypeScript, Tailwind, REST API design, and UI/UX
+- **Architecture first** — reusable, typed components that the next person can extend
+- **Design-to-code** — I design in Figma, then implement the handoff myself
+- **Across the stack** — Angular and React on the front, Laravel and Node.js on the back
+- **Leveling up** — currently deepening system design and automated testing
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Tech Stack
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cpp,html,css" alt="TypeScript, JavaScript, PHP, Java, C++, HTML, CSS" />
+</div>
 
-**Front End**
+**Front End & Mobile**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,redux,tailwind,bootstrap,vite,threejs" alt="React, Angular, Redux, Tailwind, Bootstrap, Vite, Three.js" />
+</div>
+
+<p align="center"><sub>Also shipping with <b>React Native</b> and <b>Expo</b></sub></p>
 
 **Back End & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mongodb,postgres,mysql,firebase" alt="Node.js, Laravel, MongoDB, PostgreSQL, MySQL, Firebase" />
+</div>
 
 **Design & Tooling**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,linux,postman,cypress" alt="Figma, Git, Linux, Postman, Cypress" />
+</div>
 
----
+<p align="center"><sub>Plus <b>JUnit 5</b> for JVM test suites</sub></p>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Featured Projects
 
@@ -89,28 +84,41 @@ production front-end work and the API design that backs it.
 | **[QA & Test Automation](https://github.com/ali-yaqoup/qa-junit5-testing)** | JUnit 5 test suites over five domain classes — parameterized tests, grouped assertions, exception testing, and lifecycle hooks | Java · JUnit 5 |
 | **[Data Structures](https://github.com/ali-yaqoup/data-structures-cpp)** | Templated `Deque<T>` and `LinkedList<T>`, polynomial arithmetic with operator overloading, and a postfix expression evaluator | C++ |
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Experience & Education
 
-**Software Engineering Intern** — ITG Software, Inc.
+**Software Engineering Intern** — ITG Software, Inc.  
 Worked on real client-facing features and learned how a production codebase is reviewed, tested, and shipped.
 
-**B.Sc. Software Engineering** — An-Najah National University, Palestine
+**B.Sc. Software Engineering** — An-Najah National University, Palestine  
 Supplemented with **DataCamp** coursework in data analysis and Python.
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-yaqoup&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=4F46E5&icon_color=4F46E5" alt="Ali's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yaqoup&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=4F46E5" alt="Top languages" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=ali-yaqoup&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=070B16&title_color=A5B4FC&icon_color=22D3EE&text_color=CBD5E1&ring_color=4F46E5" alt="Ali's GitHub stats" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yaqoup&layout=compact&hide_border=true&langs_count=8&bg_color=070B16&title_color=A5B4FC&text_color=CBD5E1" alt="Top languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ali-yaqoup&theme=dark&hide_border=true&background=070B16&ring=4F46E5&fire=22D3EE&currStreakNum=A5B4FC&sideNums=CBD5E1&currStreakLabel=A5B4FC&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
+</p>
 
 <p align="center">
-  <sub>Open to internships, freelance work, and open-source collaboration.</sub><br/>
-  <sub><a href="mailto:ali.yaqoub.software@gmail.com">ali.yaqoub.software@gmail.com</a></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-yaqoup&bg_color=070B16&color=A5B4FC&line=22D3EE&point=A78BFA&area=true&hide_border=true&area_color=4F46E5" alt="Contribution activity graph" />
+</p>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Open to internships, freelance, and open source" width="100%" />
+</div>
+
+<p align="center">
+  <a href="mailto:ali.yaqoub.software@gmail.com">ali.yaqoub.software@gmail.com</a>
 </p>
