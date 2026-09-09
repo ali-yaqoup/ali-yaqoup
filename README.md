@@ -13,7 +13,7 @@
   <img src="assets/divider.gif" alt="" width="100%" />
   <img src="assets/about.png" alt="About: design-to-code, web and mobile, APIs and data" width="100%" />
   <br/>
-  <img src="assets/stack.png" alt="Tech stack: TypeScript, React, Angular, Laravel, Node.js, and more" width="100%" />
+  <img src="assets/stack.png" alt="Tech stack: TypeScript, React, Next.js, Vue, Angular, Laravel, Node.js, Supabase, and more" width="100%" />
   <br/>
   <img src="assets/divider.gif" alt="" width="100%" />
 </div>
