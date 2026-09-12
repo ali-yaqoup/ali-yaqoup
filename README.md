@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="assets/banner.png" alt="Ali Yaqoub — Full-Stack Developer" width="100%" />
+﻿<div align="center">
+  <img src="assets/banner.png" alt="Ali Yaqoub â€” Full-Stack Developer" width="100%" />
 </div>
 
 <br/>
 
 ### About
 
-Software Engineering student at **An-Najah National University**. I take products from Figma to production — typed interfaces, accessible UI, and the APIs behind them.
+Software Engineering student at **An-Najah National University**. I take products from Figma to production â€” typed interfaces, accessible UI, and the APIs behind them.
 
 I care about clean component architecture, readable API design, and shipping work that holds up in review.
 
@@ -42,7 +42,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/Ali-Portfolio"><img src="assets/portfolio.png" alt="Portfolio" width="100%" /></a>
       <p>
         <a href="https://ali-yaqoup.github.io/Ali-Portfolio/">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/Ali-Portfolio">Repository</a>
       </p>
     </td>
@@ -56,7 +56,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/FATEKIT"><img src="assets/fatekit.png" alt="FATEKIT" width="100%" /></a>
       <p>
         <a href="https://fatekitwebsite.vercel.app">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/FATEKIT">Repository</a>
       </p>
     </td>
@@ -64,7 +64,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/landing-page"><img src="assets/stockflow.png" alt="StockFlow" width="100%" /></a>
       <p>
         <a href="https://landingpage-pi-silk.vercel.app">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/landing-page">Repository</a>
       </p>
     </td>
@@ -74,7 +74,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/restaurant-menu-template"><img src="assets/restaurant.png" alt="Taste Menu" width="100%" /></a>
       <p>
         <a href="https://restaurant-menu-template-bice.vercel.app">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/restaurant-menu-template">Repository</a>
       </p>
     </td>
@@ -82,7 +82,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/king-pizza-menu"><img src="assets/kingpizza.png" alt="King Pizza" width="100%" /></a>
       <p>
         <a href="https://king-pizza-menu.vercel.app">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/king-pizza-menu">Repository</a>
       </p>
     </td>
@@ -92,7 +92,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/thp-hiring-platform-web"><img src="assets/thp.png" alt="THP Hiring" width="100%" /></a>
       <p>
         <a href="https://ali-yaqoup.github.io/thp-hiring-platform-web/">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/thp-hiring-platform-web">Repository</a>
       </p>
     </td>
@@ -116,7 +116,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/ecoswap-cart-checkout-vue"><img src="assets/ecoswap-cart.png" alt="EcoSwap Cart" width="100%" /></a>
       <p>
         <a href="https://ecoswap-cart-checkout-vue.netlify.app/">Live site</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/ecoswap-cart-checkout-vue">Repository</a>
       </p>
     </td>
@@ -140,7 +140,7 @@ I care about clean component architecture, readable API design, and shipping wor
       <a href="https://github.com/ali-yaqoup/time4meds-ui-design"><img src="assets/time4meds.png" alt="Time4Meds" width="100%" /></a>
       <p>
         <a href="https://www.behance.net/gallery/211753891/Time4Meds-(Ui-Ux)">Case study</a>
-        ·
+        Â·
         <a href="https://github.com/ali-yaqoup/time4meds-ui-design">Repository</a>
       </p>
     </td>
@@ -175,10 +175,10 @@ I care about clean component architecture, readable API design, and shipping wor
 
 ### Experience & education
 
-**Software Engineering Intern** — ITG Software, Inc.  
+**Software Engineering Intern** â€” ITG Software, Inc.  
 Shipped client-facing features and learned how production code is reviewed, tested, and released.
 
-**B.Sc. Software Engineering** — An-Najah National University, Palestine  
+**B.Sc. Software Engineering** â€” An-Najah National University, Palestine  
 Coursework supplemented with DataCamp study in data analysis and Python.
 
 <br/>
@@ -186,14 +186,20 @@ Coursework supplemented with DataCamp study in data analysis and Python.
 ### Contact
 
 [Portfolio](https://ali-yaqoup.github.io/Ali-Portfolio/)
-·
+Â·
 [LinkedIn](https://www.linkedin.com/in/ali-derar-5679a8292)
-·
+Â·
 [Email](mailto:ali.yaqoub.software@gmail.com)
-·
+Â·
 [Linktree](https://linktr.ee/ali_yaqoup_dev)
 
 <div align="center">
   <br/>
   <a href="mailto:ali.yaqoub.software@gmail.com"><img src="assets/footer.png" alt="Open to internships, freelance, and collaboration" width="100%" /></a>
 </div>
+
+## License & copyright
+
+Copyright © 2026 Ali Yaqoub. All rights reserved.
+
+This software and its contents are proprietary. Unauthorized copying, distribution, modification, or commercial use is prohibited without prior written permission from the copyright holder.
