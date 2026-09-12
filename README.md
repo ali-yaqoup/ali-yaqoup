@@ -175,8 +175,8 @@ I care about clean component architecture, readable API design, and shipping wor
 
 ### Experience & education
 
-**Software Engineering Intern** — ITG Software, Inc.  
-Shipped client-facing features and learned how production code is reviewed, tested, and released.
+**Frontend Development Certificate** — Oppotrain (320 hours)  
+Completed fullstack training focused on ReactJS frontends with Django backends, responsive UI, and REST API integration. Certificate of Achievement — Jan 2026.
 
 **B.Sc. Software Engineering** — An-Najah National University, Palestine  
 Coursework supplemented with DataCamp study in data analysis and Python.
